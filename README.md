@@ -13,5 +13,3 @@ cd Bigyls-bash-theme
 sudo chmod +x install.sh
 ./install.sh
 ```
-
----
